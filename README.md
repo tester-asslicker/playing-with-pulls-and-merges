@@ -1,2 +1,2 @@
 # playing-with-pulls-and-merges
-practice repo for fun
+navigate to your respective branches, fork the branch, do the task, open a pull request
