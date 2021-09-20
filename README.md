@@ -1,2 +1,2 @@
 # playing-with-pulls-and-merges
-navigate to your respective branches, fork the branch, do the task, open a pull request
+(fork the master repo, write a random sentence HERE not on the master repo!, then merge HERE not the master repo)
